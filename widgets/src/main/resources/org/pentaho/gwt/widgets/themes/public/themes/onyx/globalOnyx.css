@@ -2521,7 +2521,7 @@ div.listbox .pentaho-listbox {
 }
 
 .icon-small.icon-run {
-  background: url('../images/run-small.png');
+  background: url('../images/PlayS-New.png');
 }
 
 .icon-small.icon-run.disabled {
@@ -2590,7 +2590,7 @@ div.listbox .pentaho-listbox {
   background: url('../images/file_dashboard.png');
 }
 .icon-small.icon-stop {
-  background: url('../images/stop-small.png');
+  background: url('../images/StopS-New.png');
 }
 .icon-small.icon-stop-scheduler {
   background: url('../images/stop-scheduler-small.png');

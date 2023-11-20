@@ -4434,6 +4434,17 @@ div.dijitDateTextBox.dijitComboBox {
   background-image: url('images/start-scheduler-small.png');
 }
 
+.icon-small.icon-stop-new {
+  background-image: url('images/StopS-New.png');
+  height: 22px;
+  width: 22px;
+}
+.icon-small.icon-start-new {
+  background-image: url('images/PlayS-New.png');
+  height: 22px;
+  width: 22px;
+}
+
 .icon-small.icon-run.disabled {
   background: url('images/start-scheduler-small.png');
 }

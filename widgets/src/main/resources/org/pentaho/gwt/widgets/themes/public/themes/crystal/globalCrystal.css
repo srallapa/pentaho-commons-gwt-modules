@@ -2756,6 +2756,17 @@ padding: 10px 0 10px 0;
   height: 22px;
   width: 22px;
 }
+
+.icon-small.icon-stop-new {
+  background: url('images/StopS-New.png') no-repeat;
+  height: 22px;
+  width: 22px;
+}
+.icon-small.icon-start-new {
+  background: url('images/PlayS-New.png') no-repeat;
+  height: 22px;
+  width: 22px;
+}
 .icon-small.icon-stop-scheduler {
   background: url('images/power-on.png');
   height: 22px;
